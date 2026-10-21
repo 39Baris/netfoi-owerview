@@ -67,9 +67,11 @@ Next.js 16 · React 19 · TypeScript · Tailwind CSS · Prisma ORM · HLS.js
 ### 📱 Mobile View (Responsive PWA)
 
 <p align="center">
-  <img src="screenshots/08-mobil-anasayfa.png" width="340" alt="Mobile Home">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/09-mobil-canli-tv.png" width="340" alt="Mobile Live TV">
+  <img src="screenshots/08-mobil-anasayfa.png" width="280" alt="Mobile Home">
+  &nbsp;&nbsp;
+  <img src="screenshots/09-mobil-canli-tv.png" width="280" alt="Mobile Live TV">
+  &nbsp;&nbsp;
+  <img src="screenshots/10-mobil-filmler.png" width="280" alt="Mobile Movies Catalog">
 </p>
 
 ---
