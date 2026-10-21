@@ -14,7 +14,9 @@ Next.js 16 · React 19 · TypeScript · Tailwind CSS · Prisma ORM · HLS.js
 
 <br>
 
-<a href="https://github.com/39Baris"><img src="https://img.shields.io/badge/Contact%20%2F%20Buy-111827?style=for-the-badge&logo=github&logoColor=white" alt="Contact / Buy"></a>
+<a href="https://t.me/jzlvv"><img src="https://img.shields.io/badge/Telegram-@jzlvv-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+&nbsp;
+<a href="https://github.com/39Baris"><img src="https://img.shields.io/badge/GitHub-@39Baris-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 &nbsp;
 <a href="docs/OZELLIKLER-ve-KURULUM.md"><img src="https://img.shields.io/badge/Features%20%26%20Specs-1f6feb?style=for-the-badge&logo=readme&logoColor=white" alt="Features & Specs"></a>
 
@@ -38,7 +40,7 @@ Next.js 16 · React 19 · TypeScript · Tailwind CSS · Prisma ORM · HLS.js
 </div>
 
 > [!IMPORTANT]
-> **📢 Commercial License & Inquiries:** Contact via the GitHub profile.
+> **📢 Commercial License & Inquiries:** Contact via Telegram: [@jzlvv](https://t.me/jzlvv) or GitHub profile.
 >
 > 🔒 **Showcase Notice:** Source code and technical binaries are proprietary. This repository serves exclusively as a visual showcase and feature presentation.
 
@@ -89,7 +91,8 @@ Next.js 16 · React 19 · TypeScript · Tailwind CSS · Prisma ORM · HLS.js
 ---
 
 ## 💼 Inquiries & Purchase
-Contact via GitHub: [@39Baris](https://github.com/39Baris)
+- ✈️ **Telegram:** [@jzlvv](https://t.me/jzlvv) *(Direct & Fast Response)*
+- 💬 **GitHub:** [@39Baris](https://github.com/39Baris)
 
 ## 📄 License
 Commercial Proprietary Software — **All Rights Reserved**.

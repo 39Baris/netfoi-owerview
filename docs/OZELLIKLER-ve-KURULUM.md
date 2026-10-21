@@ -83,5 +83,6 @@ Script modern JavaScript ve Node.js ekosistemi üzerinde çalışır. Standart b
 ---
 
 ## 📞 Satın Alma & Destek
-- **Geliştirici:** [@39Baris](https://github.com/39Baris)
+- ✈️ **Telegram:** [@jzlvv](https://t.me/jzlvv) *(Hızlı İletişim & Satın Alma)*
+- 💬 **GitHub:** [@39Baris](https://github.com/39Baris)
 - Satın alım sonrası kurulum, özel alan adı yönlendirme ve teknik yapılandırma desteği sağlanmaktadır.

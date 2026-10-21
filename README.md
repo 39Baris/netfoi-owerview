@@ -14,7 +14,9 @@ Next.js 16 · React 19 · TypeScript · Tailwind CSS · Prisma ORM · HLS.js
 
 <br>
 
-<a href="https://github.com/39Baris"><img src="https://img.shields.io/badge/İletişim%20%2F%20Satın%20Al-111827?style=for-the-badge&logo=github&logoColor=white" alt="İletişim / Satın Al"></a>
+<a href="https://t.me/jzlvv"><img src="https://img.shields.io/badge/Telegram-@jzlvv-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+&nbsp;
+<a href="https://github.com/39Baris"><img src="https://img.shields.io/badge/GitHub-@39Baris-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 &nbsp;
 <a href="docs/OZELLIKLER-ve-KURULUM.md"><img src="https://img.shields.io/badge/Özellikler%20%26%20Detaylar-1f6feb?style=for-the-badge&logo=readme&logoColor=white" alt="Özellikler & Detaylar"></a>
 
@@ -38,7 +40,7 @@ Next.js 16 · React 19 · TypeScript · Tailwind CSS · Prisma ORM · HLS.js
 </div>
 
 > [!IMPORTANT]
-> **📢 Satın alma & lisanslama:** İletişim için GitHub profilindeki bağlantıları kullanabilir veya doğrudan mesaj atabilirsiniz.
+> **📢 Satın alma & lisanslama:** Telegram: [@jzlvv](https://t.me/jzlvv) üzerinden veya GitHub profilindeki bağlantılardan doğrudan iletişime geçebilirsiniz.
 >
 > **📖 Ayrıntılı özellikler & gereksinimler:** [docs/OZELLIKLER-ve-KURULUM.md](docs/OZELLIKLER-ve-KURULUM.md)
 >
@@ -132,10 +134,10 @@ Netfoi, aşağıdaki projeler için anahtar teslim, yüksek performanslı hazır
 
 ## 💼 Satın Alma & İletişim
 
-Netfoi lisansı ve kaynak kod paketi satıştadır. Detaylı bilgi, fiyatlandırma ve kurulum desteği için iletişime geçebilirsiniz:
+Netfoi lisansı ve kaynak kod paketi satıştadır. Detaylı bilgi, canlı demo ve fiyatlandırma için iletişime geçebilirsiniz:
 
+- ✈️ **Telegram:** [@jzlvv](https://t.me/jzlvv) *(Hızlı Yanıt)*
 - 💬 **GitHub:** [@39Baris](https://github.com/39Baris)
-- ✉️ **İletişim:** Satın alma için GitHub profili üzerinden iletişime geçebilirsiniz.
 
 ---
 
