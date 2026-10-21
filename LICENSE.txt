@@ -1,0 +1,13 @@
+TİCARİ YAZILIM LİSANS SÖZLEŞMESİ
+
+Telif Hakkı (c) 2026 39Baris. Tüm Hakları Saklıdır.
+
+Bu yazılım ve ilgili dokümantasyon dosyaları ("Yazılım") özel mülkiyettir.
+Bu depo yalnızca bir tanıtım vitrinidir ve kaynak kodları içermez.
+
+Yazılımın ticari lisansı satın alınmadığı sürece:
+1. Kaynak kodlar veya parçaları kopyalanamaz, çoğaltılamaz veya dağıtılamaz.
+2. Yazılım herhangi bir ticari veya kişisel amaçla izin alınmaksızın çalıştırılamaz veya barındırılamaz.
+3. Yazılım üzerinde tersine mühendislik uygulanamaz.
+
+Lisanslama ve satın alma için satıcı ile iletişime geçiniz.

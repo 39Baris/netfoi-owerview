@@ -1,0 +1,21 @@
+# Netfoi Overview / Showcase Repository
+# Sadece dokümantasyon, ekran görüntüleri ve tanıtım materyalleri içerir.
+# Kaynak kodlar kesinlikle yüklenmez.
+
+.env*
+*.db
+*.sqlite
+*.ts
+*.tsx
+*.js
+*.jsx
+*.mjs
+*.prisma
+node_modules/
+.next/
+dist/
+build/
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
