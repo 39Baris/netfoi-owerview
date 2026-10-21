@@ -6,17 +6,18 @@
 
 <div align="center">
 
-# Netfoi — Movie, Series & Live TV (IPTV) Streaming Script
+# 🎬 Netfoi — Movie, Series & Live TV (IPTV) Platform Script
 
-**Next-generation cinematic VOD & Live IPTV streaming platform.** Complete turnkey solution featuring movie & series databases, multi-theme engine, and a proprietary **CORS-Free Xtream Codes IPTV streaming proxy**.
-
-Next.js 16 · React 19 · TypeScript · Tailwind CSS · Prisma ORM · HLS.js
+**World-class cinematic VOD & IPTV streaming platform built on Next.js 16 & React 19.**  
+Features a proprietary **CORS-Free Xtream Codes IPTV streaming proxy**, automated TMDB scraper, 3x cinematic themes, and sub-second page transitions.
 
 <br>
 
 <a href="https://t.me/jzlvv"><img src="https://img.shields.io/badge/Telegram-@jzlvv-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 &nbsp;
 <a href="https://github.com/39Baris"><img src="https://img.shields.io/badge/GitHub-@39Baris-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+&nbsp;
+<a href="https://github.com/39Baris/netfoi-owerview/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-success?style=for-the-badge&logo=github" alt="Release v1.0.0"></a>
 &nbsp;
 <a href="docs/OZELLIKLER-ve-KURULUM.md"><img src="https://img.shields.io/badge/Features%20%26%20Specs-1f6feb?style=for-the-badge&logo=readme&logoColor=white" alt="Features & Specs"></a>
 
@@ -37,12 +38,31 @@ Next.js 16 · React 19 · TypeScript · Tailwind CSS · Prisma ORM · HLS.js
 <img alt="Prisma" src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat&logo=prisma&logoColor=white">
 <img alt="HLS.js" src="https://img.shields.io/badge/HLS.js-FF0055?style=flat&logoColor=white">
 
+<br><br>
+
+⭐ **If you like this project, please consider giving it a Star in the top right corner!**
+
 </div>
 
 > [!IMPORTANT]
-> **📢 Commercial License & Inquiries:** Contact via Telegram: [@jzlvv](https://t.me/jzlvv) or GitHub profile.
+> **📢 Commercial License, Live Demo & Inquiries:**  
+> Telegram: **[@jzlvv](https://t.me/jzlvv)** *(Direct & Fast Response)* or via GitHub profile.
 >
 > 🔒 **Showcase Notice:** Source code and technical binaries are proprietary. This repository serves exclusively as a visual showcase and feature presentation.
+
+---
+
+## ⚡ Why Netfoi? (Comparison vs. Legacy PHP / WordPress Scripts)
+
+| Feature | 🐢 Legacy PHP / WP Scripts | 🚀 Netfoi (Next.js 16 & React 19) |
+|:---|:---|:---|
+| **Speed & Transitions** | Full page reloads, slow DOM rendering | **0ms Instant Transitions**: Single-page application speed with streaming SSR |
+| **IPTV / Live Streaming** | Fails with CORS & 302 token redirects | **Built-in CORS Proxy**: Bypasses Cloudflare & token blocks effortlessly |
+| **Channel Capacity** | Crashes on 100-200 channels | **5,000+ Channels Tested**: Lightning-fast bulk importer & instant search |
+| **Mobile UX** | Broken menus, clunky iframes | **Native PWA**: Installable app experience on iOS & Android |
+| **Theme Engine** | Static, hard to customize | **3x Built-in Themes**: Toggle Midnight, Obsidian, or Apex Gold with 1 click |
+| **Metadata Automation** | Broken scrapers or manual entry | **TMDB API Automation**: One-click poster, backdrop, synopsis & cast fetching |
+| **Security & Architecture** | SQL injection risks, old PHP vulnerabilities | **Type-Safe TypeScript & Prisma**: Zero SQL injection, modern secure architecture |
 
 ---
 
@@ -90,9 +110,34 @@ Next.js 16 · React 19 · TypeScript · Tailwind CSS · Prisma ORM · HLS.js
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+<details>
+<summary><b>1. Do you provide installation support?</b></summary>
+<br>
+Yes! We offer full turnkey setup assistance on your own VPS/VDS (or Docker/Coolify/Vercel), including domain configuration, SSL, and database initialization.
+</details>
+
+<details>
+<summary><b>2. Is it compatible with any IPTV provider?</b></summary>
+<br>
+Yes! Fully compatible with Xtream Codes, M3U/M3U8 URLs, and raw HLS streams. The built-in proxy handles restricted streams automatically.
+</details>
+
+<details>
+<summary><b>3. Is the source code fully customizable?</b></summary>
+<br>
+Yes! You receive the full, clean TypeScript & Next.js 16 source code ready to customize, rebrand, or expand.
+</details>
+
+---
+
 ## 💼 Inquiries & Purchase
+
 - ✈️ **Telegram:** [@jzlvv](https://t.me/jzlvv) *(Direct & Fast Response)*
 - 💬 **GitHub:** [@39Baris](https://github.com/39Baris)
+
+---
 
 ## 📄 License
 Commercial Proprietary Software — **All Rights Reserved**.
